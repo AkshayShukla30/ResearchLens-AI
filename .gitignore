@@ -1,0 +1,29 @@
+# Environment / secrets
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+ENV/
+
+# Local research data
+data/uploads/*.pdf
+data/vector_index/
+data/documents.json
+
+# Caches / generated files
+.cache/
+*.log
+.pytest_cache/
+.mypy_cache/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
