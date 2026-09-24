@@ -1,29 +1,17 @@
-# Environment / secrets
-.env
-.env.local
-.streamlit/secrets.toml
-
-# Python
-__pycache__/
-*.py[cod]
-.venv/
+# Backend
+backend/.env
+backend/faiss_index/
+backend/__pycache__/
 venv/
-env/
-ENV/
 
-# Local research data
-data/uploads/*.pdf
-data/vector_index/
-data/documents.json
+# Frontend
+frontend/node_modules/
+frontend/build/
 
-# Caches / generated files
-.cache/
-*.log
-.pytest_cache/
-.mypy_cache/
+# Streamlit app
+streamlit-app/data/
+streamlit-app/__pycache__/
+streamlit-app/.env
 
-# IDE / OS
-.vscode/
-.idea/
+# General
 .DS_Store
-Thumbs.db
