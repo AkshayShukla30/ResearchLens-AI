@@ -14,7 +14,7 @@ This repository contains **two versions** of the project:
 
 ## Live Demo
 
-🔗 [https://researchlens-ai.streamlit.app/](https://researchlens-ai.streamlit.app/)
+🔗 [https://researchlensaii.streamlit.app/](https://researchlens-ai.streamlit.app/)
 *(Streamlit prototype — see `streamlit-app/` for its code)*
 
 ## GitHub
